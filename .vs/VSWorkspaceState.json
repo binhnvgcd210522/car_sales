@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\config",
+    "\\src",
+    "\\src\\Controller",
+    "\\src\\Form",
+    "\\templates",
+    "\\templates\\car"
+  ],
+  "SelectedNode": "\\src\\Form\\CustomerType.php",
+  "PreviewInSolutionExplorer": false
+}
